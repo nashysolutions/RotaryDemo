@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Rotary",
+        "repositoryURL": "https://github.com/nashysolutions/Rotary.git",
+        "state": {
+          "branch": null,
+          "revision": "dc640aa5700438056a986a2bf34ccd979793e598",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
